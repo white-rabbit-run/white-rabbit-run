@@ -1,4 +1,4 @@
-# 🐇 White Rabbit Run's Terraform Tutorials
+# 🐇 White Rabbit Run's Tutorials Repository
 
 Welcome to the official GitHub repository for the **White Rabbit Run(@white-rabbit-run) YouTube Channel**! Here, you'll find all the code snippets, configurations, and resources used in our DevOps and cloud computing tutorials. 
 
